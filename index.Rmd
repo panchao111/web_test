@@ -8,4 +8,4 @@ output:
 Welcome to my website!  
 I am a student at SUSTech, my research is about abcd
 
-<img src="figs/R.png" alt="drawing" width="400"/>
+<img src="figs/figure1.jpeg" alt="drawing" width="400"/>
